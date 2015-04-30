@@ -1,0 +1,15 @@
+Cluster,outlook ,windy
+cluster0,sunny,FALSE
+cluster0,overcast,FALSE
+cluster0,rainy,FALSE
+cluster0,rainy,FALSE
+cluster0,rainy,TRUE
+cluster0,sunny,FALSE
+cluster0,sunny,FALSE
+cluster0,rainy,FALSE
+cluster0,overcast,FALSE
+cluster0,rainy,TRUE
+cluster1,sunny,TRUE
+cluster1,overcast,TRUE
+cluster1,sunny,TRUE
+cluster1,overcast,TRUE

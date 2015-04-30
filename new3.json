@@ -1,0 +1,45 @@
+
+{"name":"kmeans",
+"children":[
+ {
+ "name": "cluster 0=12",
+ "children": [
+  {
+   "name": "centroid 1",
+   "children": [
+    {
+     
+     "children": [
+  
+      {"name": "one=1, four= 5", "size": 20}
+     
+     ]
+    }
+    ]
+    }
+  ]
+},
+
+{
+ "name": "cluster 1=7",
+ "children": [
+  {
+   "name": "centroid 2",
+   "children": [
+    {
+     
+     "children": [
+  
+      {"name": "one=5, four= 4", "size": 10}
+     
+     ]
+    }
+    ]
+    }
+  ]
+}
+]
+}
+
+
+    
